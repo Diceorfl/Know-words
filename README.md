@@ -12,7 +12,7 @@
       SEARCH - поиск слова из Input в словаре и его вывод в Output.   
       SORT - перемешивает буквы в введенном вами слове.  
       RANDOM - выводит в Input случайное перемешенное слово из словаря.      
-![](https://github.com/Diceorfl/Know_words/blob/master/About_dictionary.PNG?raw=true)  
+![](https://github.com/Diceorfl/Know-words/blob/main/about_dictionary.PNG?raw=true)  
 
  #### Что делать?  
       1.Нажимаем Load Dictionary и выбираем нужный нам словарь.  
@@ -34,7 +34,7 @@
       SEARCH - search for a word from Input in the dictionary and its output.   
       SORT - mixes the letters in the word you entered.  
       RANDOM - outputs a random mixed word from the dictionary into Input.  
-![](https://github.com/Diceorfl/Know_words/blob/master/About_dictionary.PNG?raw=true)
+![](https://github.com/Diceorfl/Know-words/blob/main/about_dictionary.PNG?raw=true)
 
  ####  How to use it?  
        1.Press the Load Dictionary and select the dictionary we need.  
@@ -47,4 +47,4 @@
  #### Requirements for building the project:  
       Qt5.14.2 MSVC2017 / mingw73 32 or 64 bit.  
 
-![](https://github.com/Diceorfl/Know_words/blob/master/example.PNG?raw=true)
+![](https://github.com/Diceorfl/Know-words/blob/main/App.PNG?raw=true)
