@@ -23,7 +23,7 @@
       6.Получаем вывод всех возможных слов.   
 
  #### Требования для сборки проекта:  
-      Комплект: Qt5.14.2 MSVC2017/mingw73 32 или 64 bit.  
+      Комплект: Qt5.15.1 MSVC2015.  
 
 
 ### How does it work?  
@@ -45,6 +45,6 @@
        6 We get all possible words in Output.   
 
  #### Requirements for building the project:  
-      Qt5.14.2 MSVC2017 / mingw73 32 or 64 bit.  
+      Qt5.15.1 MSVC2015.  
 
 ![](https://github.com/Diceorfl/Know-words/blob/main/App.PNG?raw=true)
